@@ -1,0 +1,25 @@
+{
+  "name": "budget_app",
+  "version": "1.0.0",
+  "description": "budget app in javascript",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2paulc/budget_app.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "paulc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m2paulc/budget_app/issues"
+  },
+  "homepage": "https://m2paulc.github.io/budget_app",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
